@@ -10,6 +10,5 @@ class ProductController extends Controller
 
     	return view('admin.addProduct');
     }
-
-Product
+    
 }
